@@ -1087,23 +1087,23 @@ hr {
   .site-header.header-hidden {
     transform: translateY(-70px); }
   .site-header > nav {
-    height: 70px;
+    height: 54px;
     padding: 15px; }
     .site-header > nav .header-logo {
       position: absolute;
       display: block;
-      width: 40px;
-      height: 40px;
-      border-radius: 20px;
+      width: 104px;
+      height: 24px;
+      border-radius: 0px;
       border: 1px solid #EEE;
       overflow: hidden; }
       .site-header > nav .header-logo:hover {
         background: #333; }
     .site-header > nav .header-link {
-      padding-left: 15px;
+      padding-left: 25px;
       color: #999;
       font-size: 15px;
-      line-height: 40px; }
+      line-height: 24px; }
       .site-header > nav .header-link.active {
         color: #333; }
       .site-header > nav .header-link:hover {
